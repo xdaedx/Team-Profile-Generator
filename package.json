@@ -1,0 +1,26 @@
+{
+    "name": "team-profile-gen",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/xdaedx/Team-Profile-Generator"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/xdaedx/Team-Profile-Generator/issues"
+    },
+    "homepage": "https://github.com/xdaedx/Team-Profile-Generator",
+    "dependencies": {
+      "email-validator": "^2.0.4",
+      "fs": "0.0.1-security",
+      "inquirer": "^7.3.3",
+      "jest": "^26.6.3"
+    }
+  }
