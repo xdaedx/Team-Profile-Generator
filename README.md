@@ -13,6 +13,7 @@ You need to clone the repository and then type 'npm install' to install the depe
 
 ## Usage
 In the terminal, you'll type 'node index.js' then will be given prompts that you can fill out and choose. 
+[Click to watch the Walkthrough Video](https://drive.google.com/file/d/1hOxL_AVYPlPYcZyOYx0H0Sq5Aop3FcWf/view)
 
 
 ## License
